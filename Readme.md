@@ -6,7 +6,7 @@ Thank you for your interest in interning with us at WEBO Digital.
 
 Here are the list of the internship challenges. Please choose one of the following specialism areas below and complete the challenge. Pick the area in which you feel you are strongest and most accomplished.
 
-* [Frontend](https://github.com/younginnovations/internship-challenges/tree/master/qa/form-wrong)
+* [Frontend](https://github.com/nirazanbasnet/internship-challenges/tree/main/frontend)
 
 For above areas, after the completion of the challenge, please submit your application from [here](https://tally.so/r/wv7eXn). The submission of multiple incomplete or poor solutions will weaken your application.
 
