@@ -6,7 +6,7 @@
 * Once complete, create a private repo called “webo-frontend-challenge” in [bitbucket](https://bitbucket.org)
 * Solve the problem detailed below
 * Push your code to the repo (make sure that you have multiple commits with proper messages) 
-* Invite internship-bitbucket@yipl.com.np to that particular private repo
+* Invite internship@webo.digital to that particular private repo
 * Submit your application
 
 #### Problem
